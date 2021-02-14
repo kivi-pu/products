@@ -4,24 +4,28 @@
     <category name="Торчин/Другие">
       <products>
         <product>
+          <code>1</code>
           <name>Горчица "Торчин" 130г Крепкая (шт.)</name>
           <price>8.15</price>
           <count>Э в наявності</count>
         </product>
 
         <product>
+          <code>2</code>
           <name>Горчица "Торчин" Американская д/п 130 г (шт.)</name>
           <price>8.05</price>
           <count>Очікується</count>
         </product>
 
         <product>
+          <code>3</code>
           <name>Заправка для борща "Торчин" 240г (шт.)</name>
           <price>14.55</price>
           <count>Э в наявності</count>
         </product>
 
         <product>
+          <code>4</code>
           <name>Соус соевый "Торчин" 190мл Классический (шт.)</name>
           <price>21.75</price>
           <count>Э в наявності</count>
@@ -32,18 +36,21 @@
     <category name="Торчин/Кетчуп">
       <products>
         <product>
+          <code>5</code>
           <name>Кетчуп "Торчин" 270 г Шашлычный (38 шт) (шт.)</name>
           <price>10.15</price>
           <count>Э в наявності</count>
         </product>
 
         <product>
+          <code>6</code>
           <name>Кетчуп "Торчин" 270г Нежный (38шт) (шт.)</name>
           <price>10.15</price>
           <count>Очікується</count>
         </product>
 
         <product>
+          <code>7</code>
           <name>Кетчуп "Торчин" 270г Чили (38шт) (шт.)</name>
           <price>10.15</price>
           <count>Э в наявності</count>
@@ -54,36 +61,42 @@
     <category name="Торчин/Майонез">
       <products>
         <product>
+          <code>8</code>
           <name>Майонез "Торчин" 160г Деликатесный (шт.)</name>
           <price>5.45</price>
           <count>Э в наявності</count>
         </product>
 
         <product>
+          <code>9</code>
           <name>Майонез "Торчин" 160г Европейский (М) (шт.)</name>
           <price>7.80</price>
           <count>Очікується</count>
         </product>
 
         <product>
+          <code>10</code>
           <name>Майонез "Торчин" 300г Деликатесный (шт.)</name>
           <price>11.00</price>
           <count>Э в наявності</count>
         </product>
 
         <product>
+          <code>11</code>
           <name>Майонез "Торчин" 300г Европейский (шт.)</name>
           <price>15.55</price>
           <count>Очікується</count>
         </product>
 
         <product>
+          <code>12</code>
           <name>Майонез "Торчин" 580 г Деликатесный (шт.)</name>
           <price>19.05</price>
           <count>Э в наявності</count>
         </product>
 
         <product>
+          <code>13</code>
           <name>Майонез "Торчин" 580 г Европейский (шт.)</name>
           <price>26.85</price>
           <count>Э в наявності</count>
@@ -94,18 +107,21 @@
     <category name="Торчин/Приправа">
       <products>
         <product>
+          <code>14</code>
           <name>Приправа "10 овощей" Торчин 20х60г (шт.)</name>
           <price>9.45 грн.</price>
           <count>Э в наявності</count>
         </product>
 
         <product>
+          <code>15</code>
           <name>Приправа "10 Овощей" Торчин 7х250 г. (ящ.)</name>
           <price>Очікується</price>
           <count>Э в наявності</count>
         </product>
 
         <product>
+          <code>16</code>
           <name>Приправа "10 овощей" Торчин 8х170 г. (шт.)</name>
           <price>23.00 грн.</price>
           <count>Э в наявності</count>

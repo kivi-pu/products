@@ -109,21 +109,21 @@
         <product>
           <code>14</code>
           <name>Приправа "10 овощей" Торчин 20х60г (шт.)</name>
-          <price>9.45 грн.</price>
+          <price>9.45</price>
           <count>Э в наявності</count>
         </product>
 
         <product>
           <code>15</code>
           <name>Приправа "10 Овощей" Торчин 7х250 г. (ящ.)</name>
-          <price>Очікується</price>
-          <count>Э в наявності</count>
+          <price>33.70</price>
+          <count>Очікується</count>
         </product>
 
         <product>
           <code>16</code>
           <name>Приправа "10 овощей" Торчин 8х170 г. (шт.)</name>
-          <price>23.00 грн.</price>
+          <price>23.00</price>
           <count>Э в наявності</count>
         </product>
       </products>
